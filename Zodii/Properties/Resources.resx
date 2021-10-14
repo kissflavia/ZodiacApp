@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="comp10_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp7_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp8_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="chinese-zodiac-wallpaper-015" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chinese-zodiac-wallpaper-015.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp7_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="text7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp9_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="tumblr_static_filename_640_v2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tumblr_static_filename_640_v2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp1_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="text8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp3_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="text10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="tumblr_static_tumblr_static_93yz7u7xur0okskwsk8kgscw0_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tumblr_static_tumblr_static_93yz7u7xur0okskwsk8kgscw0_640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp1_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp2_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp2_9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="nr2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nr2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp5_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp5_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp1_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp1_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="tumblr_static_tumblr_static_filename_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tumblr_static_tumblr_static_filename_640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comp11_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp11_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp11_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp10_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp10_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp3_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp3_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp4_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp7_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp7_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp6_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp9_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp9_11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp12_8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="comp8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\comp8_6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;iso-8859-2</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\China\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

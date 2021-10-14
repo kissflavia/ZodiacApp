@@ -1,0 +1,71 @@
+F:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.exe.config
+F:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.exe
+F:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.pdb
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.Form1.resources
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.Properties.Resources.resources
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.exe
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.pdb
+G:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.exe.config
+G:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.exe
+G:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.pdb
+G:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.Form1.resources
+G:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.Properties.Resources.resources
+G:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.csproj.GenerateResource.Cache
+G:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.exe
+G:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.pdb
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.Form2.resources
+H:\Visual Studio 2013\Zodii\Zodii\bin\Debug\Zodii.exe.config
+H:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.exe
+H:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.pdb
+F:\Visual Studio 2013\Zodii\Zodii\obj\Debug\Zodii.csproj.CoreCompileInputs.cache
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.csprojResolveAssemblyReference.cache
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.Form1.resources
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.Form2.resources
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.Properties.Resources.resources
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.csproj.GenerateResource.Cache
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.exe
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.pdb
+E:\12B\Zodii\Zodii\bin\Debug\Zodii.exe.config
+E:\12B\Zodii\Zodii\bin\Debug\Zodii.exe
+E:\12B\Zodii\Zodii\bin\Debug\Zodii.pdb
+E:\12B\Zodii\Zodii\obj\Debug\Zodii.Form3.resources
+F:\Zodii\Zodii\bin\Debug\Zodii.exe.config
+F:\Zodii\Zodii\obj\Debug\Zodii.exe
+F:\Zodii\Zodii\obj\Debug\Zodii.pdb
+F:\Zodii\Zodii\bin\Debug\Zodii.exe
+F:\Zodii\Zodii\bin\Debug\Zodii.pdb
+F:\Zodii\Zodii\obj\Debug\Zodii.csprojResolveAssemblyReference.cache
+F:\Zodii\Zodii\obj\Debug\Zodii.Form1.resources
+F:\Zodii\Zodii\obj\Debug\Zodii.Form2.resources
+F:\Zodii\Zodii\obj\Debug\Zodii.Form3.resources
+F:\Zodii\Zodii\obj\Debug\Zodii.Properties.Resources.resources
+F:\Zodii\Zodii\obj\Debug\Zodii.csproj.GenerateResource.Cache
+H:\Zodii\Zodii\bin\Debug\Zodii.exe.config
+H:\Zodii\Zodii\obj\Debug\Zodii.exe
+H:\Zodii\Zodii\obj\Debug\Zodii.pdb
+C:\Users\Flavia\Desktop\Zodii\Zodii\bin\Debug\Zodii.exe.config
+C:\Users\Flavia\Desktop\Zodii\Zodii\bin\Debug\Zodii.exe
+C:\Users\Flavia\Desktop\Zodii\Zodii\bin\Debug\Zodii.pdb
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.csprojAssemblyReference.cache
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.Form1.resources
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.Form2.resources
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.Form3.resources
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.Properties.Resources.resources
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.csproj.GenerateResource.cache
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.exe
+C:\Users\Flavia\Desktop\Zodii\Zodii\obj\Debug\Zodii.pdb
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\bin\Debug\Zodii.exe.config
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\bin\Debug\Zodii.exe
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\bin\Debug\Zodii.pdb
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.csprojAssemblyReference.cache
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.Form1.resources
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.Form2.resources
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.Form3.resources
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.Properties.Resources.resources
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.csproj.GenerateResource.cache
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.csproj.CoreCompileInputs.cache
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.exe
+D:\IA-Flavia\An 2\PI\Zodii\Zodii\obj\Debug\Zodii.pdb
